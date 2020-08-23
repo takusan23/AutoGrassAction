@@ -17,6 +17,8 @@ jobs:
 
     # こっから書いていく
     steps:
+      # リポジトリに触れるように
+      - uses: actions/checkout@v2
       
       # 適当なファイルを作る
       - name: Update File
