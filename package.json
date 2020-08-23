@@ -1,0 +1,19 @@
+{
+  "name": "autograssaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "make": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takusan23/AutoGrassAction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takusan23/AutoGrassAction/issues"
+  },
+  "homepage": "https://github.com/takusan23/AutoGrassAction#readme"
+}
